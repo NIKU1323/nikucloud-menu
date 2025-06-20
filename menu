@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "🚀 NIKU CLOUD VPN MENU"
+/usr/local/bin/menu
